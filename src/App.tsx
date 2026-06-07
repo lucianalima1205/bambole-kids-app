@@ -5,6 +5,7 @@ import { Catalogo } from './pages/Catalogo'
 import { Detalhes } from './pages/Detalhes'
 import { Contato } from './pages/Contato'
 import { Sobre } from './pages/Sobre'
+import Assistente from '../assistente-ia/Assistente'
 
 export function App() {
   return (
@@ -16,6 +17,7 @@ export function App() {
           <Route path="/produto/:id" element={<Detalhes />} />
           <Route path="/contato" element={<Contato />} />
           <Route path="/sobre" element={<Sobre />} />
+          <Route path="/assistente" element={<Assistente />} />
         </Route>
       </Routes>
     </BrowserRouter>

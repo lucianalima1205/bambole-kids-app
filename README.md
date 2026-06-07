@@ -7,7 +7,7 @@ detalhes, contato e informações da loja, com atendimento direcionado ao WhatsA
 Os dados de produtos e estatísticas são lidos de um banco **PostgreSQL no Supabase**,
 expostos de forma segura por meio de views públicas (somente leitura).
 
-🔗 **Demo:** _<link da Vercel aqui após o deploy>_
+🔗 **Demo:** [bambole-kids-app.vercel.app](https://bambole-kids-app.vercel.app)
 
 ---
 

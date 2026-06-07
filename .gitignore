@@ -18,4 +18,9 @@ dist-ssr
 
 # documentação interna do projeto
 SPEC.md
+SPEC_assistente.md
+assistente-ia-README.md
 memory/
+
+.vercel
+.env*

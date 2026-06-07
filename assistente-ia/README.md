@@ -1,5 +1,8 @@
 # Assistente de IA — Bambolê Kids
 
+🤖 **Demo ao vivo:** [bambole-kids-app.vercel.app](https://bambole-kids-app.vercel.app)
+→ Acesse o app e toque no ícone ✨ **Assistente** na barra de navegação inferior.
+
 Módulo de **assistente virtual** da loja de roupas infantis Bambolê Kids.
 Faz parte do projeto de extensão (disciplina **Inteligência Artificial Para Devs**)
 e estende o aplicativo de catálogo, adicionando um atendimento automatizado.
